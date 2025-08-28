@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test output files
+test_output.csv
+empty_test.csv
+invalid_test.csv
+sample_test.csv
+
+# Temporary files
+/tmp/
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
